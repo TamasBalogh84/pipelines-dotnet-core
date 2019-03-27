@@ -13728,11 +13728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineDataApi\\MachineDataApi.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineDataApi\\MachineDataApi.csproj",
       "projectName": "MachineDataApi",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineDataApi\\MachineDataApi.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineDataApi\\MachineDataApi.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineDataApi\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineDataApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13752,17 +13752,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Sql\\Data.Sql.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Sql\\Data.Sql.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Sql\\Data.Sql.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Sql\\Data.Sql.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj"
             }
           }
         }

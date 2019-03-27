@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj",
       "projectName": "Data.Influx",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -329,8 +329,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj"
             }
           }
         }

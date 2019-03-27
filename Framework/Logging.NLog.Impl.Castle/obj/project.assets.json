@@ -4038,11 +4038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj",
       "projectName": "Logging.NLog.Impl.Castle",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4062,8 +4062,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging\\Logging.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging\\Logging.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging\\Logging.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging\\Logging.csproj"
             }
           }
         }

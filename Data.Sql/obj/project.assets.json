@@ -1931,11 +1931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Sql\\Data.Sql.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Sql\\Data.Sql.csproj",
       "projectName": "Data.Sql",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Sql\\Data.Sql.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Sql\\Data.Sql.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Sql\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Sql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1955,8 +1955,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj"
             }
           }
         }

@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\EventLogger.NLog\\EventLogger.NLog.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\EventLogger.NLog\\EventLogger.NLog.csproj",
       "projectName": "EventLogger.NLog",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\EventLogger.NLog\\EventLogger.NLog.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\EventLogger.NLog\\EventLogger.NLog.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\EventLogger.NLog\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\EventLogger.NLog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -309,8 +309,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus\\EventBus.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus\\EventBus.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\EventBus\\EventBus.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\EventBus\\EventBus.csproj"
             }
           }
         }

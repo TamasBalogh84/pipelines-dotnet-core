@@ -864,11 +864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching.Redis\\Caching.Redis.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Caching.Redis\\Caching.Redis.csproj",
       "projectName": "Caching.Redis",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching.Redis\\Caching.Redis.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Caching.Redis\\Caching.Redis.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching.Redis\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Caching.Redis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -888,11 +888,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching\\Caching.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching\\Caching.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Caching\\Caching.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Caching\\Caching.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Extensions\\Extensions.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Extensions\\Extensions.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Extensions\\Extensions.csproj"
             }
           }
         }

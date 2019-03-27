@@ -401,11 +401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging\\Logging.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Logging\\Logging.csproj",
       "projectName": "Logging",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging\\Logging.csproj",
+      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Logging\\Logging.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Logging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

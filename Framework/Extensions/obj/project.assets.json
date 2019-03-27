@@ -441,11 +441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Extensions\\Extensions.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Extensions\\Extensions.csproj",
       "projectName": "Extensions",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Extensions\\Extensions.csproj",
+      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Extensions\\Extensions.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Extensions\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Extensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

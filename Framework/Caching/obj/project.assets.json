@@ -401,11 +401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching\\Caching.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Caching\\Caching.csproj",
       "projectName": "Caching",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching\\Caching.csproj",
+      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Caching\\Caching.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Caching\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\Caching\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

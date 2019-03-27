@@ -441,11 +441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus\\EventBus.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\EventBus\\EventBus.csproj",
       "projectName": "EventBus",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus\\EventBus.csproj",
+      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\EventBus\\EventBus.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\pipelines-dotnet-core\\Framework\\EventBus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

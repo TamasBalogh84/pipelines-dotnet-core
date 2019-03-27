@@ -7289,11 +7289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineInfluxDataService\\MachineInfluxDataService.csproj",
+      "projectUniqueName": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineInfluxDataService\\MachineInfluxDataService.csproj",
       "projectName": "MachineInfluxDataService",
-      "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineInfluxDataService\\MachineInfluxDataService.csproj",
+      "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineInfluxDataService\\MachineInfluxDataService.csproj",
       "packagesPath": "C:\\Users\\hutambal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\MachineInfluxDataService\\obj\\",
+      "outputPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\MachineInfluxDataService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7313,23 +7313,23 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Data.Influx\\Data.Influx.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Data.Influx\\Data.Influx.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\EventLogger.NLog\\EventLogger.NLog.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\EventLogger.NLog\\EventLogger.NLog.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\EventLogger.NLog\\EventLogger.NLog.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\EventLogger.NLog\\EventLogger.NLog.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Framework\\Logging.NLog.Impl.Castle\\Logging.NLog.Impl.Castle.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Interfaces\\Interfaces.csproj"
             },
-            "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\hutambal\\Source\\Repos\\microservice-app-example\\src\\Models\\Models.csproj"
+            "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\hutambal\\source\\repos\\pipelines-dotnet-core\\Models\\Models.csproj"
             }
           }
         }
